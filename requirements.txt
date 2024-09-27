@@ -1,0 +1,7 @@
+openai==0.27.2
+transformers==4.45.1
+speechrecognition==3.8.1
+#pyaudio==0.2.11          # For audio processing if you have issues with it, try installing from source using python -m pip install pyaudio
+python-dotenv==0.20.0    # For environment variables (API keys)
+flask==2.2.0             # Web framework for dashboard
+kubernetes==24.2.0       # Kubernetes Python client
