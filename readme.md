@@ -1,7 +1,7 @@
 # Kia Kubernetes Voice Assistant
 
 ## Introduction
-Kia is an AI-powered voice assistant that allows you to interact with a Kubernetes cluster using voice commands. You can create, list, and manage pods simply by speaking to Kia. The assistant also has a real-time dashboard to visualize the current state of your cluster.
+Kia is an AI-powered voice assistant that allows you to interact with a Kubernetes cluster using voice commands. You can create, list, and manage pods simply by speaking to Kia. 
 
 ## Features
 - Voice-activated Kubernetes management
